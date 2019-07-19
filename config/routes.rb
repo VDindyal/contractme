@@ -7,6 +7,12 @@ Rails.application.routes.draw do
     }
 
     resources :postings do
+        resources :reviews do
+
+        end
+    end
+
+    resources :users do
 
     end
 

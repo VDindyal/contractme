@@ -69,3 +69,6 @@ gem 'gritter'
 gem 'cancancan'
 
 gem 'os'
+
+
+gem 'jquery-rails'
